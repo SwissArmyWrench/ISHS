@@ -35,8 +35,6 @@ In this specification the following terms are used as described:
 
 - If notes about multiple SUBJECTS are taken in one day, a new ENTRY and SEGMENT must be created.
 
-- As an alternative to a full SEGMENT, if only one ENTRY needs to be created, a ONE-OFF SEGMENT may be used with a different HEADER, defined below in #######
-
 
 ### Segments
 
